@@ -3,6 +3,7 @@ li {
 }
 
 div {
+    border: 3px solid black;
     background-color: rgb(255, 199, 154);
     width: 400px;
     height: 300px;
@@ -10,4 +11,12 @@ div {
     font-family: Courier, sans-serif;
     font-size: 10px;
     font-weight: italic;
+}
+
+table {
+    border: 1px solid black;
+}
+
+td, th {
+    border: 1px solid black;
 }
