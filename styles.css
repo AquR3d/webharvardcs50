@@ -23,3 +23,7 @@ td, th {
     padding: 5px;
     /*margin goes around the border */
 }
+
+#foo { /* ids can only be put on ONE html element*/
+    color: rgb(170, 54, 0);
+}
