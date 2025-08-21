@@ -15,6 +15,10 @@
     a::b    pseudoelement
 */
 
+a[href="lexie.html"] {
+    color: pink;
+}
+
 ul > li {
     color: blue;
 }
