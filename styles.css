@@ -21,6 +21,10 @@ button {
     font-size: 24px;
 }
 
+button:hover {
+    background-color: yellow;
+}
+
 a[href="lexie.html"] {
     color: pink;
 }
