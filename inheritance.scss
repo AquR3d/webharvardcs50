@@ -1,0 +1,8 @@
+%message {
+    font-family: sans-serif;
+}
+
+.success {
+    @extend %message;
+    background-color: green;
+}
