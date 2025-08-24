@@ -1,4 +1,4 @@
-$color: green; /* variable called color that is red */
+$color: red; /* variable called color that is red */
 
 ul {
     font-size: 14px;
@@ -8,6 +8,19 @@ ul {
 ol {
     font-size: 18px;
     color: $color;
+}
+
+// this particular nesting is only allowed in SAS
+div {
+    font-size: 18px;
+
+    p {
+        color: blue;
+    }
+
+    ul {
+        color: green;
+    }
 }
 
 // must be compiled with "sass file_name.scss:file_name.css"
