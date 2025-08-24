@@ -2,4 +2,5 @@ git add file_name - adds to be watched over to say if want to commit yeah?
 git commit -m "message"
 git status
 git push - sync to github
-git pull - sync from githubmerge conflict
+git pull - sync from github merge conflict & skibidi
+
