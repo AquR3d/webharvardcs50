@@ -13,7 +13,21 @@
     [a=b]   attribute
     a:b     pseudoclass
     a::b    pseudoelement
+
+    mmm media quieries and viewports
 */
+
+@media (min-width: 700px) {
+    body {
+        background-color: white;
+    }
+}
+
+@media (max-width: 699px) {
+    body {
+        background-color: red;
+    }
+}
 
 button {
     width: 200px;
