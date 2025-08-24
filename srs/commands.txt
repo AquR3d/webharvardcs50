@@ -8,4 +8,4 @@ git commit -am "message" - i think it does git add and then git commit -m lmfao
 git log
 git reset --hard <commit> - go back to a certain commit
 git reset --hard origin/master - go back to the online one
-q - stop doing the command
+q - stop the current command
