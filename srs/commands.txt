@@ -9,3 +9,6 @@ git log
 git reset --hard <commit> - go back to a certain commit
 git reset --hard origin/master - go back to the online one
 q - stop doing the command
+git branch - tells me the branch and existing ones ( the * tells you the one you're working on)
+git checkout -b branch_name - new branch
+git switch branch_name - switch branch I LOVE BIG COCK
