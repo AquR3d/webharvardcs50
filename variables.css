@@ -1,12 +1,12 @@
-/* vairable called color that is red */
+/* variable called color that is red */
 ul {
   font-size: 14px;
-  color: red;
+  color: blue;
 }
 
 ol {
   font-size: 18px;
-  color: red;
+  color: blue;
 }
 
 /*# sourceMappingURL=variables.css.map */
