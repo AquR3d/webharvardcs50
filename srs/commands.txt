@@ -3,4 +3,6 @@ git commit -m "message"
 git status
 git push - sync to github
 git pull - sync from github merge conflict & skibidi
+git config pull.rebase false - auto merge
+git commit -am "message" - i think it does git add and then git commit -m lmfao
 
