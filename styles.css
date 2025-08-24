@@ -15,6 +15,20 @@
     a::b    pseudoelement
 
     mmm media quieries and viewports
+
+    bootstrap, a popular css library getbootstrap.com (uses 12 unit columns)
+    
+    class="row"
+        class="col-12"
+
+        or
+
+        class="col-lg-6 col-sm-12"
+        class="col-lg-6 col-sm-12"
+
+    SAS = extension/diff language to CSS
+    * has variables
+    * .scss
 */
 
 @media (min-width: 700px) {
@@ -28,6 +42,20 @@
         background-color: red;
     }
 }
+
+/*
+#id {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#id {
+    display: grid;
+    grid-column-gap: __px;
+    grid-row-gap: __px;
+    grid-template-columns: ___px ___px ... auto; per column
+}
+*/
 
 button {
     width: 200px;
